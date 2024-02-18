@@ -1,8 +1,45 @@
-# React + Vite
+# Custom Quizzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Custom Quizzer is a fun educational project designed to promote casual and easy learning among students. With Custom Quizzer, users can generate quizzes on selected topics, answer multiple-choice questions, customize the number of questions and time, and view their results along with attempt history. The application is responsive, ensuring it works efficiently on both desktop and mobile devices.
 
-Currently, two official plugins are available:
+Here's a link to visit the site [Custom Quizzer](https://quiz-generating-app.vercel.app/) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Quiz Generation**: Users can generate quizzes on selected topics.
+- **Multiple Choice Questions**: Quizzes consist of multiple-choice questions for interactive learning.
+- **Customization**: Users can choose the number of questions and set the time limit for each quiz.
+- **Result Display**: After completing a quiz, users can view their results along with attempt history.
+- **Responsive Design**: The application is responsive, ensuring seamless user experience across different devices.
+
+## Benefits
+
+Custom Quizzer offers the following benefits:
+
+- Promotes casual and easy learning among students.
+- Encourages interactive engagement through quizzes.
+- Provides flexibility in quiz customization for users.
+
+## Tools Used
+
+- **Frontend Framework**: Vite React
+- **Styling**: Bootstrap
+- **API**: Google Gemini-pro API for generating questions
+- **Hosting**: Vercel
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to Custom Quizzer, please fork the repository and submit a pull request with your proposed changes.
+
+## Acknowledgements
+
+- Special thanks to Vercel for hosting the application.
+- Bootstrap for providing styling support.
+- Google Gemini-pro API for generating quiz questions.
+
+## Contact
+
+For any inquiries or support, feel free to contact at [imamankr2121@gmail.com](mailto:imamankr2121@gmail.com).
+
+---
+*Custom Quizzer - Fun Education Project*
