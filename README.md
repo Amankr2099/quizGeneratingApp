@@ -37,6 +37,13 @@ Contributions are welcome! If you'd like to contribute to Custom Quizzer, please
 - Bootstrap for providing styling support.
 - Google Gemini-pro API for generating quiz questions.
 
+## License
+
+This project is proprietary and all rights are reserved. You may not copy, modify, distribute, or use this code in any manner without explicit permission from the owner.
+
+Unauthorized use of this project is prohibited.
+
+
 ## Contact
 
 For any inquiries or support, feel free to contact at [imamankr2121@gmail.com](mailto:imamankr2121@gmail.com).
